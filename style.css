@@ -13,10 +13,12 @@
 }
 
 .comp-image{
-    width: 500px;
+    width: 550px;
     border: 1px solid;
     border-color: black;
-    margin: 20px;
+    margin: 0px;
+    vertical-align: middle;
+    margin-bottom: 30px;
 }
 
 .navbar-brand {
@@ -40,4 +42,14 @@
     color: lightseagreen;
     font-weight: 600;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color: white;
+    padding: 25px;
+}
+
+.container-fluid-lower{
+    background-color: lightgray;
+
 }
